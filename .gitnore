@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+vfs_state.json
+.DS_Store
