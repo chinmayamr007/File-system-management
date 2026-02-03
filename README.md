@@ -72,13 +72,3 @@ Developed by: Chinmaya M R
 Specialization: AI & Machine Learning | Cyber Security Intern @ CoE-DFICS
 
 
----
-
-### One final step for your Repo:
-To make this truly professional, run this command in your terminal to create the `requirements.txt` file we talked about:
-
-```bash
-echo "PyQt5" > requirements.txt
-git add README.md requirements.txt
-git commit -m "Docs: Add detailed README and requirements.txt"
-git push
